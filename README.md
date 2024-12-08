@@ -1,4 +1,6 @@
-## Hi there 👋
+## Selam 👋
+<p>Benim adım Hazar. 2001 yılında İstanbul'da doğdum ve İstanbul'da yaşıyorum. Anadolu meslek lisesi veritabanı programcılığı mezunuyum. Profilimde C# kod örnekleri, SQL kod örnekleri ve veritabanları paylaşıyorum.</p>
+<p><a href="https://linkedin.com/in/hazaribrahimaslan">Linkedin'da beni ekle ve takip et</a></p>
 
 <!--
 **hazaribrahimaslan/hazaribrahimaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
